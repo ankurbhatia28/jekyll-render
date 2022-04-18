@@ -18,7 +18,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-![Chips One](/_images_/chips.jpg)
+![Chips One](/_images/chips.jpg)
 
 ![Chips Two](https://github.com/ankurbhatia28/jekyll-render/_images/chips.jpg)
 
