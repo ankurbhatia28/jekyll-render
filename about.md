@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-permalink: /aboutt/
+permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Ankur.
+I currently live in Oakland with my wife, Crystal, and 9 year old Maltese Poodle, Luke.
+In my spare time, you will find me:
+* Playing basketball
+* Playing chess
+* Reading
+* Listening to comedy or science fiction podcasts
+* Watching poorly made dating shows on Netflix
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+This site was very easy to create with Render, so thank you for that. Although you will find that I mis-stepped and didn't define my remote currently on GitHub at first so there is a deleted PR on the render-examples repo. Sorry about that.
+
