@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SEO Related Docs Experiments"
+title:  SEO Related Docs Experiments
 date:   2021-04-19 10:00:00 -0800
-categories: memo
+categories: memo, seo
 ---
 
 # SEO Related Docs
@@ -28,10 +28,7 @@ While we had an idea that it would only benefit us to do so, we wanted to measur
 
 The initial idea for the experiment was pretty straightforward. At the bottom of all published docs, add in a footer that contained related pages that users could click on and that search engines would recognize as internal links.
 
-<details>
-  <summary>This is the design we went with for the footer.</summary>
-![Related Docs Footer](https://i.imgur.com/qLaHbNq.png)
-</details>
+[This is the design we went with for the footer.](https://i.imgur.com/qLaHbNq.png)
 
 We knew it would take some time for search engines (mainly Bing and Google) to completely recrawl all the pages and recognize the new structure, so it wasn't something we'd be able to measure effectively from day one. That was the first hurdle.
 
@@ -72,7 +69,6 @@ Not all traffic is created equally. The main decision to make before we launched
 
 So we made the decision to exclude the top ~10% of docs. The upside is that it was much easier to break out the remaining hundreds of docs into cleaner, equally sized, and relatively stable groups. The downside is that we were excluding our largest traffic docs from the experiment, so we were likely under-estimating the impact the internal linking would generate. I messaged out to the team that this experiment would give us a lower bound of what to expect, which is the better situation to be in pre launch, I believe.
 
-
 That was that, and **we launched** in June and I had my R script ready to take in data after a month and analyze the delta, which we had estimated would take until late September
 
 
@@ -84,10 +80,7 @@ Usually, when this happens, there is an immediate war room with the engineers on
 
 What had happened was that we were getting slammed by Bing's web crawler:
 
-<details>
-  <summary>This is a cleansed look at the change in traffic from known web crawlers.</summary>
-![Crawl Data](https://i.imgur.com/oQFvjSy.png)
-</details>
+[This is a cleansed look at the change in traffic from known web crawlers.](https://i.imgur.com/oQFvjSy.png)
 
 
 ### The Postmortem
